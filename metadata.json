@@ -1,0 +1,6 @@
+{
+  "name": "FoodSpotter",
+  "description": "Local food discovery platform with interactive maps, live queue status, foodie community reviews, and curated food crawls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
